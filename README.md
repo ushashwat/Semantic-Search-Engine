@@ -1,5 +1,5 @@
 # Semantic-Search-Engine
-Semantic search using NLP on extracted text </br>
+Semantic search using NLP on extracted text </br> </br>
 
 
 ![Error!](https://github.com/ushashwat/Semantic-Search-Engine/blob/master/queries.png) </br>

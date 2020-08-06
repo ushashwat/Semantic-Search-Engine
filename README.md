@@ -1,4 +1,4 @@
-# Semantic-Search-Engine
+# Semantic Search Engine
 Semantic search using NLP on extracted text </br> </br>
 
 
